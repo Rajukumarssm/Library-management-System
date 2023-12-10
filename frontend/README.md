@@ -1,3 +1,6 @@
+# Library Management Front-End
+This is the front-end part for the library management system
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
